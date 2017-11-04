@@ -14,6 +14,7 @@ namespace Aplicacion1
     {
         public Form1()
         {
+            // ejemplo de modificacion
             InitializeComponent();
         }
     }
