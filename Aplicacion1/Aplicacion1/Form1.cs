@@ -17,5 +17,11 @@ namespace Aplicacion1
             // ejemplo de modificacion
             InitializeComponent();
         }
+
+        private void btnMensaje_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("Hola mundo");
+        }
     }
 }
